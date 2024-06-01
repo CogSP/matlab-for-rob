@@ -1,0 +1,10 @@
+1. Bang-Coast-Bang vs Bang-Bang: a coast exists when L > V_max^2 / A_max
+
+2. To check since I am not sure about this one:
+
+if you want continuous acceleration profile you need to use cubic/quintic etc. since bang-(coast-)bang has a discontinous acceleration profile
+
+If you want the minimum motion time bang-(coast-)bang is the way to go, since it's optimal while cubic/quintic is not
+
+
+3. look at the manual for the difference between RF_n and RF_e

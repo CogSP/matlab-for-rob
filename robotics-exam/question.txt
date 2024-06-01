@@ -1,0 +1,20 @@
+06-2023
+	- ex 2: why alpha(t) can be maximum at the boundaries tau = 0 and tau = 1? Is it a general
+	  rule for the norm? I think the answer can be in the footnote #2 but I didn't understand
+	- ex 3: to complete from the minor study
+	
+07-2022
+	- ex 2: inequalities at the start of the solution
+		why using det(A) to compute q1 when we have the 2R formulas?
+	- ex 4: why acceleration is 0 at tau = 0 if the velocity is not zero?
+	
+02-2021
+	- ex 4: how to calculate the secondary workspace?
+	- ex 6: TODO
+	
+02-2019
+	- ex 1c: I didn't understand how the consequences illustrated by the professor can be
+	possible
+	- ex 2: note that I have used algebraic transformation in the exercise. So put it on
+	github. The other factor is using the common technique of checking if the factor it's
+	derivable from the direct kinematic 
